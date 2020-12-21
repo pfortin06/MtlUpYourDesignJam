@@ -75,3 +75,7 @@ DerivedDataCache/*
 SpaceApe/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 SpaceApe/Saved/Logs/SpaceApe.log
 *.log
+
+SpaceApe/Intermediate/
+
+SpaceApe/Saved/
