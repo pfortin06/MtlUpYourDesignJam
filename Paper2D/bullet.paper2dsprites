@@ -1,0 +1,21 @@
+{"frames": {
+
+"Banana_Sprite.png":
+{
+	"frame": {"x":0,"y":0,"w":112,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":112},
+	"sourceSize": {"w":112,"h":112}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "bullet.png",
+	"format": "RGBA8888",
+	"size": {"w":112,"h":112},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6409e6a30f072b1e3c54568fdad4456e:0a3aa547c89ac3d3a48e4f7bb7af25c1:c1ae2a954c5d9a7820b0b0aecdb042f8$"
+}
+}
